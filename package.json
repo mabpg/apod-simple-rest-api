@@ -1,0 +1,24 @@
+{
+  "name": "apod-simple-rest-api",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootswatch": "^4.5.0",
+    "cors": "^2.8.5",
+    "date-format": "^3.0.0",
+    "express": "^4.17.1",
+    "random-date-generator": "^1.0.2",
+    "react": "^16.13.1",
+    "react-bootstrap-date-picker": "^5.1.0",
+    "react-dom": "^16.13.1",
+    "react-scripts": "0.9.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
