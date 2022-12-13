@@ -7,7 +7,7 @@
     "bootswatch": "^4.5.0",
     "cors": "^2.8.5",
     "date-format": "^3.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "random-date-generator": "^1.0.2",
     "react": "^16.13.1",
     "react-bootstrap-date-picker": "^5.1.0",
